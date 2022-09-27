@@ -1,0 +1,23 @@
+{
+  "name": "microservices-docker-kubernetes",
+  "version": "1.0.0",
+  "description": "### Kubernetes Vocab - Node   - Kubelet   - Communicates with master   - Runs pods - Pod   - Runs 1+ containers   - Exists on a node - Service   - Handles requests   - Usually a load balancer - Deployment   - Defines desired state - kubernetes handles the rest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/microservices-docker-kubernetes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/microservices-docker-kubernetes/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/microservices-docker-kubernetes#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
